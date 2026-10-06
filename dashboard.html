@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel - CrediFácil</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="img/logo.png" alt="Logo CrediFácil" height="30">
+            <span>CrediFácil Financiera</span>
+        </div>
+        <div class="user-container">
+            <p>Jael</p>
+            <span>👤</span>
+        </div>
+    </header>
+
+    <div class="contenedor-principal">
+        <nav class="menu-lateral">
+            <a href="dashboard.html" class="activo">📊 Panel</a>
+            <a href="clientes.html">👤 Clientes</a>
+            <a href="prestamos.html">💰 Préstamos</a>
+            <a href="login.html" style="color: #d32f2f; margin-top: 20px;">🚪 Cerrar Sesión</a>
+        </nav>
+
+        <main>
+            <h1 class="titulo-seccion">Resumen General</h1>
+            <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+                <article class="tarjeta-tabla" style="text-align: center;">
+                    <h2>Clientes Activos</h2>
+                    <p style="font-size: 2.5rem; font-weight: bold; color: #28a745; margin: 10px 0;">124</p>
+                    <a href="clientes.html" style="text-decoration: none; color: var(--primario);">Ver listado completo &rarr;</a>
+                </article>
+                <article class="tarjeta-tabla" style="text-align: center;">
+                    <h2>Cobranza Semanal</h2>
+                    <p style="font-size: 2.5rem; font-weight: bold; color: var(--primario); margin: 10px 0;">$45,200</p>
+                    <a href="prestamos.html" style="text-decoration: none; color: var(--primario);">Ver reporte &rarr;</a>
+                </article>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <p>© 2026 CrediFácil Financiera | Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>

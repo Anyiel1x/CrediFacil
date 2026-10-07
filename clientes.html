@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clientes - CrediFácil</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img alt="Logo" src="img/logo.png" style="height: 40px;">
+            <span>CrediFácil Financiera</span>
+        </div>
+        <div class="user-container"><p>Jael</p><span>👤</span></div>
+    </header>
+
+    <div class="contenedor-principal">
+        <nav class="menu-lateral">
+            <a href="dashboard.html">📊 Panel</a>
+            <a href="clientes.html" class="activo">👤 Clientes</a>
+            <a href="prestamos.html">💰 Préstamos</a>
+            <a href="login.html" style="color: #d32f2f; margin-top: 20px;">🚪 Cerrar Sesión</a>
+        </nav>
+
+        <main>
+            <h1 class="titulo-seccion">Clientes</h1>
+            <section class="formulario-busqueda">
+                <div style="flex: 1; max-width: 400px;">
+                    <label for="promotor-buscar" style="font-size: 0.8rem; color: #666; display: block;">Promotor a cargo</label>
+                    <input type="text" id="promotor-buscar" class="input-control" value="Agustina Cervantes" style="width: 100%;">
+                </div>
+                <a href="agregar-cliente.html" class="btn-primario" style="margin-top: 15px; text-decoration: none;">Agregar Cliente</a>
+            </section>
+
+            <section class="tarjeta-tabla">
+                <div class="tabla-responsiva">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Nombre</th>
+                                <th>Apellidos</th>
+                                <th>Préstamos</th>
+                                <th>Estado</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td><td>Francisco</td><td>Ramirez Lopez</td><td>4</td><td>Regular</td>
+                                <td><button class="btn-accion" title="Editar">✏️</button><button class="btn-accion" title="Eliminar">🗑️</button></td>
+                            </tr>
+                            <tr>
+                                <td>2</td><td>ALMA EVELIA</td><td>GRANADOS</td><td>2</td><td>Regular</td>
+                                <td><button class="btn-accion" title="Editar">✏️</button><button class="btn-accion" title="Eliminar">🗑️</button></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+    </div>
+    <footer><p>© 2026 CrediFácil Financiera | Todos los derechos reservados</p></footer>
+</body>
+</html>

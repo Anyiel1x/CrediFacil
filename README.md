@@ -4,7 +4,7 @@
 Repositorio dedicado a nuestro proyecto de la materia Aplicaciones Web. Integrantes: Angel, Abril, Jael y Leonardo. Este proyecto es un prototipo de interfaz (Front-End) hecho en HTML5 y CSS puro para gestionar clientes y préstamos.
 
 ## Equipo y Roles
-* **Angel Gabriel López Guzmán**: Diseño de las pantallas, archivo CSS general, vista del Dashboard y encargado de organizar el repositorio en GitHub.
+* **López Guzmán Angel Gabriel**: Diseño de las pantallas, archivo CSS general, vista del Dashboard y encargado de organizar el repositorio en GitHub.
 * **De Los Santos Vivanco Abril**: Creación de la pantalla de Login (Acceso).
 * **Villalobos Castillo Leonardo Adair**: Creación de la tabla y catálogo de Clientes.
 * **Vergara Pineda Jael**: Creación de la pantalla de Préstamos y el formulario para agregar clientes.

@@ -34,3 +34,8 @@ Para este proyecto, el equipo utilizó herramientas de Inteligencia Artificial c
 * **Estilos globales:** Nos dio sugerencias sobre cómo estructurar nuestro archivo CSS universal para que el diseño fuera igual en todas las pantallas.
 * **Manejo de GitHub:** Nos sirvió de guía paso a paso para entender cómo trabajar en equipo usando ramas (branches), hacer los Pull Requests de forma segura y armar el Kanban sin sobreescribir nuestros archivos.
 * **Formato:** Nos ayudó a darle el formato correcto a este documento README.
+
+* ## Instrucciones de Ejecución y Demostración
+Para ejecutar el prototipo no se requiere instalación de dependencias ni servidores locales. Solo es necesario ingresar al enlace de GitHub Pages.
+* **Usuario de prueba:** jael
+* **Contraseña:** (Cualquier valor, la validación visual es simulada en el front-end)

@@ -39,3 +39,4 @@ Para este proyecto, el equipo utilizó herramientas de Inteligencia Artificial c
 Para ejecutar el prototipo no se requiere instalación de dependencias ni servidores locales. Solo es necesario ingresar al enlace de GitHub Pages.
 * **Usuario de prueba:** jael
 * **Contraseña:** (Cualquier valor, la validación visual es simulada en el front-end)
+ 

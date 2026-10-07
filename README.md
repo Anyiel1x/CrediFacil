@@ -5,9 +5,9 @@ Repositorio dedicado a nuestro proyecto de la materia Aplicaciones Web. Integran
 
 ## Equipo y Roles
 * **Angel Gabriel López Guzmán**: Diseño de las pantallas, archivo CSS general, vista del Dashboard y encargado de organizar el repositorio en GitHub.
-* **Abril**: Creación de la pantalla de Login (Acceso).
-* **Leonardo**: Creación de la tabla y catálogo de Clientes.
-* **Jael**: Creación de la pantalla de Préstamos y el formulario para agregar clientes.
+* **De Los Santos Vivanco Abril **: Creación de la pantalla de Login (Acceso).
+* **Villalobos Castillo Leonardo Adair**: Creación de la tabla y catálogo de Clientes.
+* **Vergara Pineda Jael**: Creación de la pantalla de Préstamos y el formulario para agregar clientes.
 
 ## Enlace del Proyecto
 Aquí se puede ver la página ya funcionando de forma responsiva:
